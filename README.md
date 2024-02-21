@@ -37,11 +37,7 @@ The dataset used in this project is sourced from the National Health and Nutriti
 
 ### Installation and Setup
 
-Clone this repository to get started with the project:
-
-```
-git clone https://github.com/<your-username>/<repository-name>.git
-```
+Clone this repository to get started with the project
 
 Ensure you have Python installed on your machine along with the necessary libraries:
 
